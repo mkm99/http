@@ -39,7 +39,7 @@ code 404)
 6. The server ignores all header fields in HTTP Requests it does not understand
 
 
-###Test cases
+### Test cases
 #### Web Object has not been cached
 ![notCached](notCached.png)
 <br>
