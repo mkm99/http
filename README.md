@@ -1,5 +1,5 @@
 # http
-_This project is from my networking class and the requirements belong to my professor_
+_This project is from my networking class_
 
 1. The program uses HTTP natively.
 2. Client and server programs use command-line arguments
